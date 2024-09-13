@@ -1,0 +1,12 @@
+[
+    {
+        "username": "USER TELE", 
+        "tid": ID TELE
+    },
+    {
+        "username": "USER TELE", 
+        "tid": ID TELE 
+    }
+]
+
+#user tele ga pakai @ 
